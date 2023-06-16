@@ -1,5 +1,5 @@
 # ImageResizerTokB
-This program resizes your image to less than 500 kB so it can be uploaded to Thingiverse!
+This program resizes your image to  less than less than a specified number of kilobytes
 
 V2 choses an inital reduction factor based on inital image size und lets you restart the program.
 
